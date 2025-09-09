@@ -2,6 +2,8 @@
 
 > **Note:** This entire repository, including all code, configuration, and documentation, was created autonomously by GitHub Copilot (AI Agent) on September 8, 2025. Every commit, file structure decision, and documentation was generated through AI assistance, demonstrating the capabilities of AI in software development.
 
+*****Attached Claude Connectors screenshot and config json for reference**********
+
 A comprehensive test automation framework combining Selenium WebDriver with AI Agent testing capabilities.
 
 ## AI Agent Creation Log
